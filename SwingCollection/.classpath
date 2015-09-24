@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="TemperatureConversion"/>
+	<classpathentry kind="src" path="Calculator"/>
+	<classpathentry kind="src" path="Movies"/>
+	<classpathentry kind="src" path="DuplicateEliminationSet"/>
+	<classpathentry kind="src" path="WordTypeCountMap"/>
+	<classpathentry kind="src" path="2DGrafics"/>
+	<classpathentry kind="src" path="Circle of Random Size"/>
+	<classpathentry kind="src" path="Finding Primes"/>
+	<classpathentry kind="src" path="BouncingBall"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="src" path="xy"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
