@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk1.8.0_51">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.datatools.connectivity.jdt.DRIVERLIBRARY/Jobless"/>
+	<classpathentry kind="con" path="oracle.eclipse.tools.glassfish.lib.system">
+		<attributes>
+			<attribute name="owner.project.facets" value="jst.web"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="libs/guava-18.0.jar"/>
+	<classpathentry kind="lib" path="libs/poi-3.12-20150511.jar"/>
+	<classpathentry kind="lib" path="libs/core-renderer-r8-sources.jar"/>
+	<classpathentry kind="lib" path="libs/itext-pdfa-5.5.6-javadoc.jar"/>
+	<classpathentry kind="lib" path="libs/itext-pdfa-5.5.6-sources.jar"/>
+	<classpathentry kind="lib" path="libs/itext-pdfa-5.5.6.jar"/>
+	<classpathentry kind="lib" path="libs/itext-xtra-5.5.6-javadoc.jar"/>
+	<classpathentry kind="lib" path="libs/itext-xtra-5.5.6-sources.jar"/>
+	<classpathentry kind="lib" path="libs/itext-xtra-5.5.6.jar"/>
+	<classpathentry kind="lib" path="libs/itextpdf-5.5.6-javadoc.jar"/>
+	<classpathentry kind="lib" path="libs/itextpdf-5.5.6-sources.jar"/>
+	<classpathentry kind="lib" path="libs/itextpdf-5.5.6.jar"/>
+	<classpathentry kind="lib" path="libs/javax.servlet-3.0.jar"/>
+	<classpathentry kind="lib" path="libs/jsoup-1.6.1.jar"/>
+	<classpathentry kind="lib" path="libs/jtidy-r872-jdk15.jar"/>
+	<classpathentry kind="lib" path="libs/mysql-connector-java-5.1.18-bin.jar"/>
+	<classpathentry kind="lib" path="libs/mysql-connector-java-5.1.36-bin.jar"/>
+	<classpathentry kind="lib" path="libs/xmlworker-1.2.1.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
